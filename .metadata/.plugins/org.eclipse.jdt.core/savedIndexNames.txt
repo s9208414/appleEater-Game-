@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+F:\apple\appleEat\.metadata\.plugins\org.eclipse.jdt.core
+2223105686.index
+3062791108.index
